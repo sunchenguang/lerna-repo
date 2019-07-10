@@ -1,5 +1,5 @@
 {
-  "name": "window",
+  "name": "window-suncg",
   "version": "0.1.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "37468bd8f086da77de7f28aa28577e4b607d9009"
+  "gitHead": "70bead3e4e8846794a4b8d535b395b2374af0e2d"
 }
